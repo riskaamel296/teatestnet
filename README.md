@@ -1,0 +1,2 @@
+# teatestnet
+ini adalah testnet
